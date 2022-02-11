@@ -1,0 +1,4 @@
+YOUR_JIRA_URL https://foo.atlassian.net/
+YOUR_JIRA_EMAIL foo@foo.com
+YOUR_JIRA_API_TOKEN  access-token
+YOUR_JANDI_WEB_HOOK_URL jandi webhook url
